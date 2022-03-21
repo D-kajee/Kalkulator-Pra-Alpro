@@ -4,7 +4,6 @@ using namespace std;
 main(){
 	int a, b, c, m;
 	cout<<"PROGRAM KALKULATOR"<<endl;
-	cout<<"By Muhamad Dimas Joreski"<<endl;
 	while(true){
 		cout<<"\nMenu: \n1. Penambahan \n2. Pengurangan \n3. Perkalian \n4. Pembagian \n0. Keluar"<<endl;
 		cout<<"Pilih Menu No: ";cin>>m;
